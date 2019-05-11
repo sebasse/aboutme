@@ -1,0 +1,94 @@
+body {
+   font-family: 'Open Sans', sans-serif; 
+   height: auto;
+   width: 900px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 45px;
+    color: darkorange;
+    padding-left: 20px;
+}
+
+header {
+    background-color: darkslategray;
+    border-radius: 20px;
+}
+
+.container {
+    grid: display;
+    grid-template-columns: 300px 600px;
+    
+}
+
+.preambule {
+    color: darkorange;
+    font-size: 15px;
+    padding: 2px 15px;
+    margin-bottom: 30px
+}
+
+
+.perso {
+    background-image: url(light-bulb-1246043_1920.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 750px;
+}
+
+#titre1 {
+    font-size: 25px;
+    color: azure;
+    padding-top: 10px;       
+}
+
+.perso p {
+    width: 500px;
+    padding-top: 80px;
+    padding-left: 20px;
+    color: azure;
+}
+
+.pro {
+    background-image: url(gears-1236578_1920.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 750px;
+}
+
+#titre2 {
+    font-size: 25px;
+    color: azure;
+    padding-top: 10px;       
+}   
+
+.pro p {
+    width: 500px;
+    padding-top: 80px;
+    padding-left: 20px;
+    color: azure; 
+}
+
+.web {
+    background-image: url(code-1839406_1920.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 750px;
+}
+
+#titre3 {
+   font-size: 25px;
+   color: azure;
+   padding-top: 10px;    
+}
+
+.web p {
+   width: 500px;
+   padding-top: 60px;
+   padding-left: 20px;
+   color: azure; 
+}
