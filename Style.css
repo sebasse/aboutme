@@ -62,6 +62,7 @@ header {
     font-size: 18px;
     color: azure;
     width: 500px;
+    height: 500px;
     padding-top: 80px;
     padding-left: 20px;
     overflow: scroll;
@@ -85,6 +86,7 @@ header {
    font-size: 18px;
    color: azure;
    width: 500px;
+   height: 500px;
    padding-top: 60px;
    padding-left: 20px;
    overflow: scroll;
