@@ -59,10 +59,12 @@ header {
 }   
 
 .pro p {
+    font-size: 18px;
     color: azure;
     width: 500px;
     height: 400px;
-    padding: 0;
+    padding-top: 100px;
+    padding-left: 20px;
     overflow: auto;
 }
 
@@ -82,9 +84,10 @@ header {
 
 .web p {
    color: azure;
-   width: 450px;
-   height: 380px;
-   padding: 0;
+   width: 500px;
+   height: 400px;
+   padding-top: 100px;
+   padding-left: 20px;
    overflow: auto;
    
 }
